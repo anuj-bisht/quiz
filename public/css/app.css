@@ -1,0 +1,66 @@
+
+body {
+    background-color: #fff !important; 
+}
+.navbar-inverse {
+  background-color: #002245;
+  border-color: #002245;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-top-links>li>a {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-top-links>li>a:hover, .navbar-top-links>li>a:focus, .navbar-top-links>.open>a, .navbar-top-links>.open>a:hover, .navbar-top-links>.open>a:focus {
+  color: #fff;
+  background-color: #089CD6;
+}
+
+.navbar-default {
+  background-color: #fff; 
+  border-color: #fff; 
+}
+.nav>li>a:focus, .nav>li>a:hover {
+  text-decoration: none;
+  background-color: #089CD6;
+  color:#fff;
+}
+
+.sidebar ul li a.active {
+  background-color: #089CD6;
+  color:#fff;
+  font-weight: bold;
+}
+
+nav .nav>li>a {  
+  color: #606467;
+  
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #002245;
+  border-color: #002245;
+}
+
+.panel-default>.panel-heading {
+  color: #fff;
+  background-color: #002245;
+  border-color: #ddd;  
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: inherit;
+  font-weight: bold;
+}
+{ font-family: Noto Sans, sans-serif; }
+
